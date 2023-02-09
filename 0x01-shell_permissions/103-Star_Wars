@@ -1,2 +1,2 @@
 #!/bin/bash
-makdir -p welcome/to/holbertron
+telnet towel.blinkenlights.nl
